@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TTP223-BA6")(type "KiCad")(uri "${KIPRJMOD}/lib/TTP223/TTP223-BA6.kicad_sym")(options "")(descr ""))
+)
