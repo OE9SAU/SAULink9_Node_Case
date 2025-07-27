@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.1"
     },
-    "CreationDate": "2025-07-26T20:51:06+02:00"
+    "CreationDate": "2025-07-27T10:51:28+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "SVX_Node_Case_front",
-      "GUID": "5356585f-4e6f-4646-955f-436173655f66",
+      "Name": "SVX_Node_Case_back.kicad_pcb_usb",
+      "GUID": "5356585f-4e6f-4646-955f-436173655f62",
       "Revision": "rev?"
     },
     "Size": {
@@ -27,54 +27,53 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.2,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "SVX_Node_Case_front-F_Cu.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_front-B_Cu.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_front-F_Paste.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_front-B_Paste.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_front-F_Silkscreen.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_front-B_Silkscreen.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_front-F_Mask.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SVX_Node_Case_front-B_Mask.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SVX_Node_Case_front-Edge_Cuts.gbr",
+      "Path": "SVX_Node_Case_back.kicad_pcb_usb-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
