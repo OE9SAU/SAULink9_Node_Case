@@ -157,6 +157,19 @@
 		(layer "Edge.Cuts")
 		(uuid "d0926db7-04b5-4385-8a03-dcc521192a80")
 	)
+	(gr_text "Aluminium\nmin. 1.5mm / max. 2.0mm"
+		(at 104.3 69 0)
+		(layer "F.SilkS")
+		(uuid "2827250b-1f1c-473e-bd42-0899aa81401e")
+		(effects
+			(font
+				(size 4 4)
+				(thickness 1)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
 	(dimension
 		(type aligned)
 		(layer "Margin")
