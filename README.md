@@ -3,7 +3,5 @@ Front cover, back cover and base plate for aluminium housing (see partlist), fit
 
 ![Caseoverfront](SAULink9_over_front.png)
 ![Caseoverback](SAULink9_over_back.png)
-![CaseFront](SAULink9_front.png)
-![CaseBack](SAULink9_back.png)
-![Base](SAULink9_baseplate.png)
+
 
