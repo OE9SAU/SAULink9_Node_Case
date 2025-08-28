@@ -1,8 +1,8 @@
 # SAULink9 Node Case
 Front cover, back cover and base plate for aluminium housing (see partlist), fit all part´s you need to build up a SAULink9 Repeater Node for SVX- and EchoLink use.
 
-![Caseoverfront](SAUSAULink9_over_front.png)
-![Caseoverback](SAUSAULink9_over_back.png)
+![Caseoverfront](SAULink9_over_front.png)
+![Caseoverback](SAULink9_over_back.png)
 ![CaseFront](SAULink9_front.png)
 ![CaseBack](SAULink9_back.png)
 ![Base](SAULink9_baseplate.png)
