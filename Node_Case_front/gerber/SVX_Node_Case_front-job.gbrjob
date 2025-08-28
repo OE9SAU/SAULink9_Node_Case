@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.1"
+      "Version": "8.0.5"
     },
-    "CreationDate": "2025-08-11T12:06:48+02:00"
+    "CreationDate": "2025-08-28T07:35:49+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "SVX_Node_Case_back",
-      "GUID": "5356585f-4e6f-4646-955f-436173655f62",
+      "Name": "SVX_Node_Case_front",
+      "GUID": "5356585f-4e6f-4646-955f-436173655f66",
       "Revision": "rev?"
     },
     "Size": {
@@ -27,53 +27,54 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
+      "MinLineWidth": 0.2,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "SVX_Node_Case_back-F_Cu.gbr",
+      "Path": "SVX_Node_Case_front-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_back-B_Cu.gbr",
+      "Path": "SVX_Node_Case_front-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_back-F_Paste.gbr",
+      "Path": "SVX_Node_Case_front-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_back-B_Paste.gbr",
+      "Path": "SVX_Node_Case_front-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_back-F_Silkscreen.gbr",
+      "Path": "SVX_Node_Case_front-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_back-B_Silkscreen.gbr",
+      "Path": "SVX_Node_Case_front-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SVX_Node_Case_back-F_Mask.gbr",
+      "Path": "SVX_Node_Case_front-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SVX_Node_Case_back-B_Mask.gbr",
+      "Path": "SVX_Node_Case_front-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SVX_Node_Case_back-Edge_Cuts.gbr",
+      "Path": "SVX_Node_Case_front-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
